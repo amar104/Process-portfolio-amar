@@ -4,6 +4,7 @@
 Here i would like to share my recent programming project in which i used java script as a programming language in DGL 113,i did everything perfactly but at the execution time i did not get desired result of my web page , i cross checked everything but i could not find any error in programming.i was very disappointed because i spent too much time on that but still cannot solved my issues.
 
 ## Code of the problem :
+
 var roomRate = prompt("What's your room's daily rate");
 var GST=0.05 * roomRate;
 var PST=0.08 * roomRate;
