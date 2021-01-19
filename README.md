@@ -20,6 +20,7 @@ myelement.innerHTML="Your room rate is $" + roomRate + "; GST is : $" + GST +" ;
 ## How to solve it 
 After reading "pragmatic philosophy" i open my code and study it again with fresh mind, i checked everythinhg and after sometime i find out the exact problem and solve it,it restore my confidence and am happy now because it is my assignment and finally i did it correctly as per requrements and research stratergy worked here.
 ### *Activity Number* = 0102
+
 Here am going to open my java program from CPS 100 in the last semester,in which program reads values representing a time duration in hours, minutes, and seconds and then prints the total number of seconds.
 
 ## code of the peogram:
@@ -29,9 +30,12 @@ Write a program that reads values representing a time
 duration in hours, minutes, and seconds and then prints the 
 equivalent total number of seconds. (For example, 1 hour, 28
 minutes, and 42 seconds is equivalent to 5322 seconds.)
+
 */
-import java.util.*;  
+import java.util.*;
+
 class p2_8{
+
 	public static void main(String args[]){
 		
 		int hours, mint;
@@ -107,10 +111,16 @@ class p2_8{
 	
 }
 /*
+
 Result:
+
 Enter Hour(s) : 1
+
 Enter Minute(s) : 1
+
 Enter Second(s) : 60
+
+
 Total Seconds are 3720
 */
 
