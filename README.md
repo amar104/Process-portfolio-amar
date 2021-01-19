@@ -8,7 +8,9 @@ Here i would like to share my recent programming project in which i used java sc
 var roomRate = prompt("What's your room's daily rate");
 var GST=0.05 * roomRate;
 var PST=0.08 * roomRate;
+
 let myelement = document.getElementById("mydata");
+
 myelement.innerHTML="Your room rate is $" + roomRate + "; GST is : $" + GST +" ; PST is $" + PST;
 
 ### Here actually i forget to add (.)operator before getElementById("mydata") that's why my page enable to feth data from rooms page.
