@@ -18,4 +18,4 @@ myelement.innerHTML="Your room rate is $" + roomRate + "; GST is : $" + GST +" ;
 ### Here actually i forget to add (.)operator before getElementById("mydata") that's why my page enable to fetch data from rooms page.
 
 ## How to solve it 
-After reading "pragmatic philosophy" i open my code and study it again with fresh mind, i checked everythinhg and after sometime i find out the exact problem and solve it,it restore my confidence and am happy now because it is my assignment and finally i did it correctly as per requrements.Research stratergy worked here.
+After reading "pragmatic philosophy" i open my code and study it again with fresh mind, i checked everythinhg and after sometime i find out the exact problem and solve it,it restore my confidence and am happy now because it is my assignment and finally i did it correctly as per requrements and research stratergy worked here.
