@@ -23,15 +23,15 @@ After reading "pragmatic philosophy" i open my code and study it again with fres
 
 Here am going to open my java program from CPS 100 in the last semester,in which program reads values representing a time duration in hours, minutes, and seconds and then prints the total number of seconds.
 
-## code of the peogram:
+## code of the program:
 
 /*
 Write a program that reads values representing a time
 duration in hours, minutes, and seconds and then prints the 
 equivalent total number of seconds. (For example, 1 hour, 28
 minutes, and 42 seconds is equivalent to 5322 seconds.)
-
 */
+
 import java.util.*;
 
 class p2_8{
@@ -87,25 +87,33 @@ duration in hours, minutes, and seconds and then prints the
 equivalent total number of seconds. (For example, 1 hour, 28
 minutes, and 42 seconds is equivalent to 5322 seconds.)
 */
-import java.util.*;  
+
+import java.util.*; 
+
 class p2_8{
+
 	public static void main(String args[]){
-		
+	
+	//declaring variables
+	
 		int hours, minutes,int seconds, calculatedSeconds;
 		Scanner in = new Scanner(System.in);
 		
 		System.out.print("Enter Hour(s) : ");  
-        hours = in.nextInt();  
+                hours = in.nextInt();  
 		
 		System.out.print("Enter Minute(s) : ");  
-        minutes = in.nextInt();  
+                minutes = in.nextInt();  
 		
 		System.out.print("Enter Second(s) : ");  
-        seconds = in.nextInt();  
+                seconds = in.nextInt();  
 		
-		
+	//calculating seconds
+	
 		calculatedSeconds = seconds + (60 * minutes) + (3600 * hours);
-	  System.out.println("Total Seconds are : " + calculatedSeconds);
+	//displaying total seconds
+	
+	       System.out.println("Total Seconds are : " + calculatedSeconds);
 
 	}
 	
