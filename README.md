@@ -6,16 +6,13 @@ Here i would like to share my recent programming project in which i used java sc
 ## Code of the problem :
 
 var roomRate = prompt("What's your room's daily rate");
-
 var GST=0.05 * roomRate;
-
 var PST=0.08 * roomRate;
-
 let myelement = document.getElementById("mydata");
 
 myelement.innerHTML="Your room rate is $" + roomRate + "; GST is : $" + GST +" ; PST is $" + PST;
 
-### Here actually i forget to add (.)operator before getElementById("mydata") that's why my page enable to feth data from rooms page.
+### Here actually i forget to add (.)operator before getElementById("mydata") that's why my page enable to fetch data from rooms page.
 
 ## How to solve it 
 After reading "pragmatic philosophy" i open my code and study it again with fresh mind, i checked everythinhg and after sometime i find out the exact problem and solve it,it restore my confidence and am happy now because it is my assignment and finally i did it correctly as per requrements.Research stratergy worked here.
