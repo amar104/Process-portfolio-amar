@@ -32,10 +32,9 @@ equivalent total number of seconds. (For example, 1 hour, 28
 minutes, and 42 seconds is equivalent to 5322 seconds.)
 */
 
-```
-import java.util.*;
+  import java.util.*;
 
-class p2_8{
+   class p2_8{
 
            public static void main(String args[]){
 		
@@ -60,9 +59,11 @@ class p2_8{
 	}
 	}
 	
+	
 
 
 ## Areas of improvement for readability:
+
 
 ### 1. White space
 
