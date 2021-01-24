@@ -33,10 +33,8 @@ minutes, and 42 seconds is equivalent to 5322 seconds.)
 */
 
 import java.util.*;
-
 class p2_8{
-
-	public static void main(String args[]){
+           public static void main(String args[]){
 		
 		int hours, mint;
                 int sec, calculatedSec;
@@ -57,8 +55,7 @@ class p2_8{
 		System.out.println("Total Sec are : " + calculatedSec);
 
 	}
-	
-}
+	}
 
 
 ## Areas of improvement for readability:
