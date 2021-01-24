@@ -146,7 +146,7 @@ Total Seconds are 3720
 
 ### Target user base
 >The term "target user base" is a huge term it means alot for the developer,because target users are the real users that would use developers product(app) .in other words,target customers can be found in different categories such as **children,adult,men,women,old,teenagers** and so on.Thus,they are specific group of people who will respond your product and their response will be based on various factors such as money,their geographcal location,knowledge,age,gender and many more factors.>
-### Mobile app that i user regularly
+### Mobile app that i use regularly
 Here i would like to talk about **Instagram app** that i used on regular bases,actually instagram is a social app that have millions users,i used that app to keep in touch with my friends and family members. It is one of the best app that basically used by every person from normal to celebrity.This app is very easy to operate and it also provide the calling option for their users,so people can easily interact with each other.
 Secondly,it also gives a plateform to people for making their career as many people run their pages and show their talent to others and generate good income,it is also good for promotion and selling goods.
 >i must say **instagram** is a good app and it fulfill my goalsand that exactly match with the target user base .As it is for everyone and does not matter from where people can access it.>
