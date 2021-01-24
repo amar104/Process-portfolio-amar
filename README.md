@@ -150,6 +150,62 @@ Total Seconds are 3720
 Here i would like to talk about **Instagram app** that i used on regular bases,actually instagram is a social app that have millions users,i used that app to keep in touch with my friends and family members. It is one of the best app that basically used by every person from normal to celebrity.This app is very easy to operate and it also provide the calling option for their users,so people can easily interact with each other.
 Secondly,it also gives a plateform to people for making their career as many people run their pages and show their talent to others and generate good income,it is also good for promotion and selling goods.
 >i must say **instagram** is a good app and it fulfill my goalsand that exactly match with the target user base .As it is for everyone and does not matter from where people can access it.
+## *Activity Number* = 0202
+Consider a recent programming project (it can be one of those you identified last week). Examine the identifiers (i.e. variable and method names, etc.) used in the code. Are they sufficiently descriptive? Are they perhaps too descriptive (i.e. too long, or to complicated). Do they make sense in the context of your project? Identify between five and ten names in the code that you could consider changing either to be more descriptive, or more consistent with one another. Briefly explain your rationale.
+### Consider the following piece of code
+
+```java
+
+public class EmpController {
+
+	private EmpModel model;
+	private EmpView view;
+	
+	public EmpController(EmpModel model, EmpView view){
+		this.model = model;
+		this.view = view;
+	}
+	public int getEmpNo() {
+		return model.getEmpNo();
+	}
+	public void setEmpNo(int EmpNo) {
+		model.setEmpNo(EmpNo);
+	}
+	public String getEmpName() {
+		return model.getEmpName();
+	}
+	public void setEmpName(String EmpName) {
+		model.setEmpName(EmpName);
+	}
+	public String getEmpDepartment() {
+		return model.getEmpDepartment();
+	}
+	public void setEmpDepartment(String EmpDepartment) {
+		model.setEmpDepartment(EmpDepartment);
+	}
+	// this method is used to retrieve data
+	public void UpdateView() {
+		view.printEmpDetail(model.getEmpNo(), model.getEmpName(), model.getEmpDepartment());
+	}
+		}
+```
+
+
+### List of used variables in the code
+1. EmpNo
+2. EmpName
+3. EmpDepartment
+4. Empcontroller
+5. EmpModel
+6. EmpView
+### Examine the identifiers
+>I think my identifiers names in this program are sufficiently descriptive because all the variable and method names can easily clarify their purpose in the program.for example we all are aware about that most of us used **emp** name for **employees** so its very common variable name and easy to guess for what the given information is about.and all the identifiers makes sense in the program.
+### changing names to be more descriptive
+1. I choose **EmpNo** for changing their name,if i choose their nameas **EmpNumber** instead of EmpNo it should be more descriptive.
+2. Then i select **EmpDepartment**,it should be more identical if its name will be **EmpDep** because EmpDepartment is too long name.
+3. **EmpController** is also complicated name so i chnaged it as **EmpCtrler.**
+4. **EmpView** should be an **EmployeeView** as it looks more descriptive
+5. We can also change **emp** as **employee** if we want to make it more descriptive but it is too long.
 
 
 
