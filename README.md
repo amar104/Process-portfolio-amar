@@ -31,6 +31,7 @@ duration in hours, minutes, and seconds and then prints the
 equivalent total number of seconds. (For example, 1 hour, 28
 minutes, and 42 seconds is equivalent to 5322 seconds.)
 */
+```
 
   import java.util.*;
 
@@ -149,7 +150,7 @@ Total Seconds are 3720
 ### Mobile app that i use regularly
 Here i would like to talk about **Instagram app** that i used on regular bases,actually instagram is a social app that have millions users,i used that app to keep in touch with my friends and family members. It is one of the best app that basically used by every person from normal to celebrity.This app is very easy to operate and it also provide the calling option for their users,so people can easily interact with each other.
 Secondly,it also gives a plateform to people for making their career as many people run their pages and show their talent to others and generate good income,it is also good for promotion and selling goods.
->i must say **instagram** is a good app and it fulfill my goalsand that exactly match with the target user base .As it is for everyone and does not matter from where people can access it.
+>i must say **instagram** is a good app and it fulfill my goals and that exactly match with the target user base .As it is for everyone and does not matter from where people can access it.
 ## *Activity Number* = 0202
 Consider a recent programming project (it can be one of those you identified last week). Examine the identifiers (i.e. variable and method names, etc.) used in the code. Are they sufficiently descriptive? Are they perhaps too descriptive (i.e. too long, or to complicated). Do they make sense in the context of your project? Identify between five and ten names in the code that you could consider changing either to be more descriptive, or more consistent with one another. Briefly explain your rationale.
 ### Consider the following piece of code
