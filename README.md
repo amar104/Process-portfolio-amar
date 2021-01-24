@@ -5,13 +5,13 @@ Here i would like to share my recent programming project in which i used java sc
 
 ## Code of the problem :
 
-`ar roomRate = prompt("What's your room's daily rate");`
+`var roomRate = prompt("What's your room's daily rate");`
 
-var GST=0.05 * roomRate;
+`var GST=0.05 * roomRate;`
 
-var PST=0.08 * roomRate;
+`var PST=0.08 * roomRate;`
 
-let myelement = document.getElementById("mydata");
+`let myelement = document.getElementById("mydata");
 
 myelement.innerHTML="Your room rate is $" + roomRate + "; GST is : $" + GST +" ; PST is $" + PST;
 
