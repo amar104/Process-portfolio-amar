@@ -31,7 +31,7 @@ duration in hours, minutes, and seconds and then prints the
 equivalent total number of seconds. (For example, 1 hour, 28
 minutes, and 42 seconds is equivalent to 5322 seconds.)
 */
-```
+```java
 
   import java.util.*;
 
@@ -91,7 +91,7 @@ duration in hours, minutes, and seconds and then prints the
 equivalent total number of seconds. (For example, 1 hour, 28
 minutes, and 42 seconds is equivalent to 5322 seconds.)
 */
-```
+```java
 import java.util.*; 
 
 class p2_8{
