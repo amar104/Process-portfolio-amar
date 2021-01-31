@@ -210,9 +210,35 @@ public class EmpController {
 
 
 
-## Week 3 Activities
-### *Activity Number* = 0301
+# Week 3 Activities
+## *Activity Number* = 0301
+## *Activity number* = 0302
+### "Android Developer Guides"
+>I visited this guide and learn alot about documentation and why it is so important for us
+### Application Fundamentals
+>I explore the application fundamental section  of android developer guide,it is one of the most important article which explain about the fundamentals of android apps.
+### Structure of the documentation
+>The structure is the basic thing of every document which describe the organization of document. In the application fundamental page all the content are properly structured that helps user during reading.
 
+1. For example the **definition** of application fundamental is on the top of the page which explained about its coding **languages** and other developmemt tools.
+2. Then **bullets points** are used for adding its security features ,these small bullets gives different look to its features.
+3. **Bold heading** is also used in this documentation for the components such as **activities**,**services**,**broadcast receiver**,**content provider**
+4. Proper **paragraph** tags are also used for align the text of the document which is very essential part of good documentation
+
+5. **Dark background** is also used for coding purpose which gives unique look to the code
+6. Blue hypertext **links** are used for linking the document 
+
+
+
+**Summary**
+
+>An android app can written in java,kotlin and c++,and it is a multiuser system and every process his own virtual machine which makes them independent from other apps.the main app components are : Activities,Services,Broadcast receiver and content provider
+
+> There is proper heading ,sub-headings are used in this document.For the formatting there is bold text ,hyperlinks,paragraph,
+bullet points are used
+
+>I leraned about how the text formatting is important,all the main heading should be bold so that it will be more highlightes and we should use small bullets point and ordered list for highlighting some points like types and features of anything.
+Paragraph should also be proper aligned and main headings and sub-headings should be written in seprate line so that they can easily identify .
 
 
 
