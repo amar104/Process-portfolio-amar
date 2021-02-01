@@ -217,8 +217,8 @@ public class EmpController {
 
 ### Whatsapp is an social networking app which is widely used for communication purpose. In the followind image you can see the different platforms of whasapp app,in the left side you can see the android version of whatapp and in the right side there is an ios version of whatsapp.
 
-### 1. Different controls position and its appearnce
->  From the image i can observe the major difference is its appearence and controls ,as in the android  there are basically three main button(icons) on the top right side of the screen they are about video call,audio call and one link for another information like contact information
+### 1. Different controls position and its appearance
+>  From the image i can observe the major difference is its appearance and controls ,as in the android  there are basically three main button(icons) on the top right side of the screen they are about video call,audio call and one link for another information like contact information
 
 >But in the ios there are only two major links one for video call and another is for audio call
 
