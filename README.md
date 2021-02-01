@@ -212,7 +212,45 @@ public class EmpController {
 
 # Week 3 Activities
 ## *Activity Number* = 0301
+
+## App for comparison(Whatsapp)
+
+### Whatsapp is an social networking app which is widely used for communication purpose. In the followind image you can see the different platforms of whasapp app,in the left side you can see the android version of whatapp and in the right side there is an ios version of whatsapp.
+
+### 1. Different controls position and its appearnce
+>  From the image i can observe the major difference is its appearence and controls ,as in the android  there are basically three main button(icons) on the top right side of the screen they are about video call,audio call and one link for another information like contact information
+
+>But in the ios there are only two major links one for video call and another is for audio call
+
+> For the backward control android have back button in the form of arrow in the left side of the screen and ios have small icon on the same place.On iphone more options are placed at the bottom of the app.
+
+
+<table>
+<tr><th>
+ <Img src= "a1.jpg" width="450" height="500"></img><th>
+  <Img src= "a11.jpg" width="450" height="500"></img>	
+ </th></tr></table>	
+
+
+ 
+### 2. Setting screen
+> When we observed the setting screen of both platforms then we can easily said that ios(iphone) have more setting obtions than android.
+
+
+<table>
+<tr><th>
+ <Img src= "a3.jpg" width="450" height="500"></img><th>
+  <Img src= "a33.jpg" width="450" height="500"></img>	
+ </th></tr></table>	
+
+
+> Thus both platform have their own features and drawbacks,android have its back control(button) which is best and ios have their own functions .
+
+> Personally i used android mobile and it is easy to operate i also tried iphone but i did not like it because i feel it is more complicated than android and android have more features and user friendly.
+
+
 ## *Activity number* = 0302
+
 ### "Android Developer Guides"
 >I visited this guide and learn alot about documentation and why it is so important for us
 ### Application Fundamentals
