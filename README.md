@@ -280,6 +280,14 @@ Paragraph should also be proper aligned and main headings and sub-headings shoul
 
 
 
+# Week 4 Activities
+## *Activity Number* = 0401
+### Pattern of interest
+> I select an pattern of **bond of personal security** where they ask for **email and emergency contact**,i found this pattern is more useful because they can easily reached out to us and we can get to knew each and every notification through email that would be the best way to communicate with each other.
+
+### When and how it is useful
+
+> The pattern of personal security ,where we have to add emergency contact and email address is very useful in different situations .suppose in any app if we add this pattern this would be very benificial to users during emergency , secondly email is perfact way to get intouch with anybody because it is easy to opearte and it is cost effective.thus our app must use these advance intelligence pattern to smooth fuctionality of the app.
 
 
 
