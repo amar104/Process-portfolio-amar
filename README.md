@@ -290,5 +290,38 @@ Paragraph should also be proper aligned and main headings and sub-headings shoul
 > The pattern of personal security ,where we have to add emergency contact and email address is very useful in different situations .suppose in any app if we add this pattern this would be very benificial to users during emergency , secondly email is perfact way to get intouch with anybody because it is easy to opearte and it is cost effective.thus our app must use these advance intelligence pattern to smooth fuctionality of the app.
 
 
+## *Activity Number* = 0402
+
+### Exercise 1
+
+> You’re asked to read a file a line at a time. For each line, you have to split itinto fields. Which of the following sets of pseudo class definitions is likely to be more orthogonal?
+
+class Split1 {
+	
+constructor(fileName)  # opens the file for reading
+
+def readNextLine()       # moves to the next line  
+def getField(n)          # returns nth field in current line
+
+}
+
+or
+
+class Split2 {
+
+constructor(line)        # splits a line  
+def getField(n)         # returns nth field in current line
+
+ }
+
+
+
+ ### Evaluation 
+
+ > According to me class split2 is more orthogonal because it only gives priority to their main task spliting line and ignore the other details such as file name of the constructor and moving to next line. It simply split a line then return the nth field of the current line.
+
+ ## How the concept of orthogonality relates to MVC
+
+ The concept of orthogonality is also relate with MVC(model,view,controller) because the design of the orthogonality is based on layers and each layer follow abstraction approach.All layers works independently so user interface works as view and application framework and database access all layered works as model ,containers and standard services are similar to controller elements of data.
 
 
