@@ -331,10 +331,21 @@ def getField(n)         # returns nth field in current line
 
 > These all three are popular android architecture that have their own features and disadvantages,i will explain its main similarities and distinctions in subsequent paragraphs: 
 
-### Main similarities between MVC, MVP, MVVM
+## Main similarities between MVC, MVP, MVVM
 
 * The MVC,MVP,MVVM are most widely used design pattern. MVC stand for *Model View Controller* and MVP stand for *Model View Presenter*,and MVVM stand for *Model-View-ViewModel*.So, Model is a common layer in all these android architecture,which works in similar way in all three models. it contain business logic and data state that communicate with controller and change the data,it also interact with database.
-* View is also available in all three approaches for user interface but it interact with differently for different architecture.
+* View is also available in all three approaches for user interface but it interact with differently in different architecture.
+
+## Main difference between MVC, MVP, MVVM
+* In these architectures the user input begins at different place,for example,in MVC the input begins at controller whereas in MVP input begins with view and in MVVM it starts from model.
+* MVC is the traditional  and simple approach of android architecture while MVP and MVVM are the latest android architectures.
+* In MVC there is many-to-one relation between controller and view.and one-to-one relation between view and presenter and one-to-many in MVVM.
+* The code is more maintainable and readable in MVP and we can reuse the view and presenter at different places as compare to MVC.
+## How to choose one over other
+
+> MVC is only viable option if we design simple application having just limited numbers of screens(1,2) while MVP and MVVM
+are good option in breaking down into module,in which we can reuse the existing code.if we need reuse the code and tightly coupled code then we should go with MVP and if we do not need tight coupling between view and model then MVVM is good option. 
+
 
 
 
