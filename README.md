@@ -325,3 +325,23 @@ def getField(n)         # returns nth field in current line
  The concept of orthogonality is also relate with MVC(model,view,controller) because the design of the orthogonality is based on layers and each layer follow abstraction approach.All layers works independently so user interface works as view and application framework and database access all layered works as model ,containers and standard services are similar to controller elements of data.
 
 
+# Week 5 Activities
+## *Activity Number* = 0501
+### MVC, MVP, MVVM
+
+> These all three are popular android architecture that have their own features and disadvantages,i will explain its main similarities and distinctions in subsequent paragraphs: 
+
+### Main similarities between MVC, MVP, MVVM
+
+* The MVC,MVP,MVVM are most widely used design pattern. MVC stand for *Model View Controller* and MVP stand for *Model View Presenter*,and MVVM stand for *Model-View-ViewModel*.So, Model is a common layer in all these android architecture,which works in similar way in all three models. it contain business logic and data state that communicate with controller and change the data,it also interact with database.
+* View is also available in all three approaches for user interface but it interact with differently for different architecture.
+
+
+
+
+
+
+
+
+
+
