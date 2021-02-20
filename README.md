@@ -347,8 +347,20 @@ def getField(n)         # returns nth field in current line
 are good option in breaking down into module,in which we can reuse the existing code.if we need reuse the code and tightly coupled code then we should go with MVP and if we do not need tight coupling between view and model then MVVM is good option. 
 
 
+## *Activity Number* = 0502
+
+## Global variables
+A global variable have global score which means we can access it from anywhere.here am going to share my java script code in which i used some global variables. in java script global variables declare outside the function.
+
+## java script code <br>
+>var roomRate = prompt("What's your room's daily rate");<br>
+var GST=0.05 * roomRate;<br>
+var PST=0.08 * roomRate;<br>
+let myelement = document.getElementById("mydata");<br>
+myelement.innerHTML="Your room rate is $" + roomRate + "; GST is : $" + GST +" ; PST is $" + PST;
 
 
+Here GST,PST all are global variables and we can uncoupled these variable by using function in which we put all the variable under function then we can enter the room rate through prompt,in that way we can change global variable into local scope within the function.
 
 
 
