@@ -363,6 +363,57 @@ myelement.innerHTML="Your room rate is $" + roomRate + "; GST is : $" + GST +" ;
 Here GST,PST all are global variables and we can uncoupled these variable by using function in which we put all the variable under function then we can enter the room rate through prompt,in that way we can change global variable into local scope within the function.
 
 
+# Week 8 Activities
+## *Activity Number* = 0801
+### Similarities and difference in MVI as compared to MVC,MVP,MVVM
+>MVI stand for "model view intent and it is one of the latest architecture of android as compared to other architectures,and the user interface is defined by new state.and any interaction with UI is done by "intent".
+
+## Comparison with other architectures:
+
+* In other architectures model hold the data only but in MVI Model hold the data and and user interface state of users action so it implement very new and unique duties than other android architectures.
+* It handles multiple inputs and states which is not possible in other architectures( MVP,MVVM).
+* Same as MVP ,MVI provide the interface to the view and it observ the user interaction ang then provide the accurate respond to the UI.
+
+* In MVI we can reduce the states by merging states and we can create new states and model if we want. that is not possible in other architectures.
+* On the positive side MVI is a immutable model that provide reliablity and safety on apps.
+* The major differance between MVP and MVI is that MVI represent states and MVP represent data.
+* MVI represent unidirectional and cyclic data flow.
+
+## *Activity Number* = 0802
+### Most critical resourses for mobile apps functionality
+## Whatsapp(on android)
+> Whatsapp is one of the most popular social media app that is best for social interaction.
+
+## Critical resourses:
+* Processor : Processor is one of most critical resourse of whats app because we need good processor for it so that it gives us fast and accurate performance.
+* Power : Power is the basic need for each app as we all knows that without power we cannot run any app.
+* Memory : Memory space is required when we want to get fast response from the system or app.
+
+## Developers considerations:
+
+> During development of any app developer must consider their backup plans and security machanisum so that app will works great for the users.They also consider their performance and unique features that makes user experience great.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
