@@ -395,8 +395,60 @@ Here GST,PST all are global variables and we can uncoupled these variable by usi
 
 
 
+# Week 9 Activities
+## *Activity Number* = 0901
+## Android mobile apps: Here am going to discuss two android apps ,one is "Facebook" and another is "Instagram".
+
+## 1. Facebook :
+> Facebook is one of the most widely used social networking website that provide best plateform to communicate.
 
 
+### Examine Facebook how they mark the passage of time and notification:
+
+<table>
+<tr><th>
+ <Img src= "f1.jpg" width="450" height="500"></img><th>
+  <Img src= "f2.jpg" width="450" height="500"></img>	
+ </th></tr></table>	
+
+> As you can see from the above pictures the time of loading facebook content can be shown in the form of loading having facebook icon in the picture 1, and secondly the notification appeared on the 2nd image in the red color 1 which describe the notification.
+
+
+<table>
+<tr><th>
+ <Img src= "f3.jpg" width="750" height="500"></img><th>
+  
+ </th></tr></table>	
+
+ > As you can see in the above image without internet connection how the facebook will be apperaed.
+
+
+
+## 1. Instagram :
+> Instagram is one of the most commonly used social networking app that provide good plateform to communicate.
+
+<table>
+<tr><th>
+ <Img src= "i1.jpg" width="450" height="500"></img><th>
+  <Img src= "i2.jpg" width="450" height="500"></img>	
+ </th></tr></table>	
+
+> In the first image we can see its loading time whe we open the app then i will take some moments to open it,in the second image shows the profile loading content.
+
+<table>
+<tr><th>
+  <Img src= "i3.jpg" width="750" height="500"></img>	
+ </th></tr></table>	
+
+> This image show the content of instagram when there is no internet connection .
+
+
+## *Activity Number* = 0902
+## Debugging
+
+> Debugging is one of the best tool that helps us to eliminate errors and bug from the program.The technique that given in the programatic programming is depicts that these are the good debugging techniques.
+
+> These debugging techniques are quite helpful in error finiding ,here am going to explain my recent java script programmimg project where i faces some errors then i apply similar debugging techniques to solved the errors.Logging and tracing will gives us little clue about the errors that would be gives us good solution then we can easily eliminate the given error.
 
 
 
