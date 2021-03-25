@@ -450,6 +450,54 @@ Here GST,PST all are global variables and we can uncoupled these variable by usi
 
 > These debugging techniques are quite helpful in error finiding ,here am going to explain my recent java script programmimg project where i faces some errors then i apply similar debugging techniques to solved the errors.Logging and tracing will gives us little clue about the errors that would be gives us good solution then we can easily eliminate the given error.
 
+# Week 10 Activities
+## *Activity Number* = 1002
+## Asserts
+> Asserts is a java keyword which is user for defining assert statements that are used to declare a boolean conditions in a program.if assert condition is false it shows the error message on the screen.
+
+
+## Use of assert statements
+> We will use assert statements in different ways,in the last week in java script assignment i did the coding for setting the background dark black so for that i have to make some assert statement so that when we want simple and default background then we can simply click on the default button then immediately assert statement will be called.
+
+> I think assert programming is one of the simplest approach that we should use it in our program.and we stould avoid debugging and concentrate on static typing.
+
+## *Activity Number* = 1003
+
+## Difference between testing and debugging:
+* Testing : Testing is a process for finding errors and we can say that it is a process of validate the given code.
+
+* Debugging: Debugging is the next step of testing in which we can correct the bugs which we were find during testing.
+
+## Pros of testing 
+* It will helps us in finding errors and bugs
+* Helps in learning
+* Build our confidence
+* Peolpe love learning from mistakes
+
+## Cons of testing 
+* Sometimes during testing we waste our lots of time.
+* It creates unusual stress and anxiety.
+
+## Advantages of debugging
+* It gives us best splution of the errors
+* It makes program error free and easy
+
+
+
+
+
+## Cons of debugging
+* Sometime it takes more time
+
+
+
+
+
+
+
+
+
+
 
 
 
