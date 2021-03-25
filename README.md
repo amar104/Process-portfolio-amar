@@ -479,7 +479,7 @@ Here GST,PST all are global variables and we can uncoupled these variable by usi
 * It creates unusual stress and anxiety.
 
 ## Advantages of debugging
-* It gives us best splution of the errors
+* It gives us best solution of the errors
 * It makes program error free and easy
 
 
