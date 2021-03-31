@@ -482,20 +482,32 @@ Here GST,PST all are global variables and we can uncoupled these variable by usi
 * It gives us best solution of the errors
 * It makes program error free and easy
 
-
-
-
-
 ## Cons of debugging
 * Sometime it takes more time
 
+# Week 11 Activities
+## *Activity Number* = 1101
+## RESTful API 
+>RESTful API is an application program interface that uses HTTP request to GET,PUT,POST and DELETE data. REST stand for representational state transfer,it provides a way to represent resources and transfer it over HTTP by calling a url.
+
+## Resources 
+### Documentation 
+> Documentation in an API introduction that helps developers understand your API that gives them a clue about where to get started. By documenting your API, you can increse awareness and adoption of the data.
+### Use pages list of data
+>The REST API requires clients to page through all search results.when you initially make a request the number of resources that will returned cannot be immediately returned so all list of data must be paged to support large result sets.
+### Provide unique headers
+>You must include authentication credentials and an empty CSRF header in every request that you make to the REST API.
+### Use queries to filter data
+>You can filter a list of resources by performing a query, which is a request that uses a post method and contain conditions in a JSON representation.
+### Define HTTP methods for resource URLs
+>The REST style states tht the GET and POST HTTP methods are used with a single URL resources as they do not target an identifiable resources but rather a list of resources.
 
 
-
-
-
-
-
+## *Activity Number* = 1102
+## VS code editor
+> I love the use of VS code editor because it has lots of good features that make our task easy and effective. here am going to explain its one unique features that i learned in this term of study:
+## Git hub Markdown
+> Git hub markdown is one of the most interesting features of github which is perfact for editing and makes our document more effective and usable.Previously, i did not know about its makrdown features but now am become familiar about that and love to use its markdown feature for my documents.
 
 
 
